@@ -1,5 +1,5 @@
-//crtdefs.h
-//_mingw.h
+//BUGS!
+//can NOT use right head-files!
 #include <bits/stdc++.h>
 #include <windows.h>
 #include <stdio.h>
