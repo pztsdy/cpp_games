@@ -1,3 +1,5 @@
+//crtdefs.h
+//_mingw.h
 #include <bits/stdc++.h>
 #include <windows.h>
 #include <stdio.h>
